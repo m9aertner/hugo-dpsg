@@ -630,7 +630,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .menu__link {
 	display: block;
 	padding: .625rem 0;
-	font-family: 'Merriweather', Georgia, serif;
 	font-size: 18px;
 	font-weight: 700;
 	color: #fff;
